@@ -1,0 +1,7 @@
+D:\nam3 ki1\laptrinh hethong\CShap\UDPServer\UDPServer\bin\Debug\UDPServer.exe.config
+D:\nam3 ki1\laptrinh hethong\CShap\UDPServer\UDPServer\bin\Debug\UDPServer.exe
+D:\nam3 ki1\laptrinh hethong\CShap\UDPServer\UDPServer\bin\Debug\UDPServer.pdb
+D:\nam3 ki1\laptrinh hethong\CShap\UDPServer\UDPServer\obj\Debug\UDPServer.csproj.AssemblyReference.cache
+D:\nam3 ki1\laptrinh hethong\CShap\UDPServer\UDPServer\obj\Debug\UDPServer.csproj.CoreCompileInputs.cache
+D:\nam3 ki1\laptrinh hethong\CShap\UDPServer\UDPServer\obj\Debug\UDPServer.exe
+D:\nam3 ki1\laptrinh hethong\CShap\UDPServer\UDPServer\obj\Debug\UDPServer.pdb
